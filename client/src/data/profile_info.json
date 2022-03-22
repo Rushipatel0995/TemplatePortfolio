@@ -1,10 +1,10 @@
 {
     "basic_info": {
-        "image": "profile-pic.jpg",
+        "image": "Rushi_Photo.jpg",
         "name": {
-            "first_name": "Lorem ",
-            "middle_name": "elit",
-            "last_name": "Ipsum",
+            "first_name": "Rushi ",
+            "middle_name": "Samirbhai",
+            "last_name": "Patel",
             "order": [
                 "first_name",
                 "middle_name",
@@ -18,11 +18,11 @@
     },
     "contact_info": {
         "phone_no": {
-            "value": "+1 (987) 654-3210",
+            "value": "+1 (902) 809-0051",
             "emoji": "&#128222;"
         },
         "email_id": {
-            "value": "lorem.ipsum@gmail.com",
+            "value": "rs397441@dal.ca",
             "emoji": "&#128232;",
             "emoji_style": {
                 "font-size": "20px"
